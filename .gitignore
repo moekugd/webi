@@ -1,0 +1,12 @@
+*.o
+*.so
+*.swp
+*.swo
+*.tmp
+*.lock
+/vendor/
+/input.php
+/.phpintel/
+/output.php
+/.gdb_history
+/peda-session-*
